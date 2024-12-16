@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string imagePath = "5364139374037560681_99.jpg";
+        string imagePath = "5382153446129525112_99.jpg";
         Bitmap bitmap = new Bitmap(imagePath);
 
         for (int y = 0; y < bitmap.Height; y += 6)
